@@ -4,7 +4,12 @@ const Navbar = () => {
   return (
     <div>
       <div>logo</div>
-      <div></div>
+      <ul>
+        <li>contact</li>
+        <li>about</li>
+        <li>locations</li>
+        <li>services</li>
+      </ul>
     </div>
   );
 };
